@@ -1,4 +1,4 @@
-# security-weapons ![security-weapon](https://www.iconsdb.com/icons/preview/black/flying-stork-xxl.png){:height="50%" width="50%"}
+# security-weapons ![security-weapon](https://www.iconsdb.com/icons/preview/black/flying-stork-xxl.png?v=4&s=200)
 
 ![aaaa](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 

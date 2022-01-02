@@ -1,7 +1,7 @@
 # security-weapons ![security-weapon](https://www.iconsdb.com/icons/preview/red/new-badge-2-xxl.png)
 A curated list of important tools to be used by Security Community.
 
-[![Drop ICE](drop.png)](https://twitter.com/githubbers/status/1182017616740663296)
+[![Drop ICE](https://www.iconsdb.com/icons/preview/red/new-badge-2-xxl.png)](https://twitter.com/githubbers/status/1182017616740663296)
 
 - [Malware Collection](#malware-collection)
     - [Anonymizers](#anonymizers)

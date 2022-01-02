@@ -1,4 +1,4 @@
-# security-weapons ![security-weapon](https://www.iconsdb.com/icons/preview/black/flying-stork-xxl.png)
+# security-weapons ![security-weapon](https://www.iconsdb.com/icons/preview/black/flying-stork-xxl.png=250x250)
 A curated list of important tools to be used by Security Community.
 
 [![Drop ICE](https://www.iconsdb.com/icons/preview/red/new-badge-2-xxl.png)](https://twitter.com/githubbers/status/1182017616740663296)

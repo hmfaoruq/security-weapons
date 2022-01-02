@@ -1,13 +1,8 @@
 # security-weapons
 
-<img src="https://www.iconsdb.com/icons/preview/black/flying-stork-xxl.png" width="100" height="100">
-
-![aaaa](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
+<img src="https://www.iconsdb.com/icons/preview/black/flying-stork-xxl.png" width="150" height="150">
 
 A curated list of important tools to be used by Security Community.
-
-[![Drop ICE](https://www.iconsdb.com/icons/preview/red/new-badge-2-xxl.png)](https://twitter.com/githubbers/status/1182017616740663296)
 
 - [Malware Collection](#malware-collection)
     - [Anonymizers](#anonymizers)

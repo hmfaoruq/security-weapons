@@ -31,8 +31,6 @@ A curated list of important tools to be used by Security Community.
 - [Contributing](#contributing)
 - [Thanks](#thanks)
 
-View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大合集.md).
-
 ---
 
 ## Malware Collection

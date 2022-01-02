@@ -1,10 +1,5 @@
-# security-weapons ![security-weapon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# security-weapons ![security-weapon](https://www.iconsdb.com/icons/preview/red/new-badge-2-xxl.png)
 A curated list of important tools to be used by Security Community.
-# Awesome Malware Analysis(https://github.com/sindresorhus/awesome)
-
-A curated list of awesome malware analysis tools and resources. Inspired by
-[awesome-python](https://github.com/vinta/awesome-python) and
-[awesome-php](https://github.com/ziadoz/awesome-php).
 
 [![Drop ICE](drop.png)](https://twitter.com/githubbers/status/1182017616740663296)
 
